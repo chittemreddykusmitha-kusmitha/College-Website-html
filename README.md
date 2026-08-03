@@ -43,7 +43,7 @@ The objective of this project is to learn the fundamentals of web development us
 
 ## 👩‍💻 Author
 
-**Your Name**
+kusmitha
 
 ## 📄 License
 
